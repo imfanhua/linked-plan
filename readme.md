@@ -1,4 +1,7 @@
 # Linked Plan
+[![](https://img.shields.io/factorio-mod-portal/dt/linked-plan?color=blue&label=Downloads)](https://mods.factorio.com/mod/linked-plan)
+[![](https://img.shields.io/badge/V%20ME-50-red?logo=kfc&logoColor=red)](https://afdian.net/@FanHua)
+
 The purpose of this mod is to simplify the complexity of using various types of linked chests in Factorio. It does not modify any game content, such as adding or modifying recipes.
 
 You may need to use it with other mods that add linked chests.
