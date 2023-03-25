@@ -1,0 +1,11 @@
+{
+  "name": "linked-plan",
+  "version": "1.0.0",
+  "title": "Linked Plan",
+  "author": "FanHua",
+  "description": "Simplifies the linked containers.",
+  "factorio_version": "1.1",
+  "dependencies": [
+    "base >= 1.1.50"
+  ]
+}
